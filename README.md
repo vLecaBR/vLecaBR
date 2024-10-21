@@ -1,6 +1,6 @@
 # Olá, sou o Victor Leça! 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-@vlecabr-black?style=flat-square&logo=github)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-@vlecabr-black?style=flat-square&logo=github)](https://github.com/vlecabr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Leca-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/victor-leca-vlkbr/)
 
 Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação com 3 anos de experiência em empresas multinacionais, concentrando-me em suporte técnico e infraestrutura desde 2021, atualmente trabalhando diretamente com programação, atuo no setor de automação, sendo responsável por criação de sites utilizando ReactJS, Tailwind CSS entre outras tecnologias, e também criando aplicativos, fluxos de automação, listas, bibliotecas, através da Power Platform, com tecnologias como Power Apps, Power Automate e ferramentas do Office365, administração de fluxos e paginas do Sharepoint.
