@@ -16,9 +16,9 @@ Tenho uma forte paixão por tecnologia e desenvolvimento, especialmente na área
 
 | Projeto                | Descrição                                           | Tecnologias Utilizadas               | Link                     |
 |-----------------------|-----------------------------------------------------|--------------------------------------|--------------------------|
-| [Projeto 1](https://github.com/Lu4head/Site_Tec_Barao) | Site de vendas criado para a atlética da minha faculdade. | JavaScript, Django, Html, CSS                  | [Acessar](https://github.com/Lu4head/Site_Tec_Barao) |
-| [Projeto 2](https://github.com/vLecaBR/my-portfolio) | Meu portfólio para exibição dos projetos criados por eu mesmo. | ReactJS, JavaScript, CSS                       | [Acessar](https://github.com/vLecaBR/my-portfolio) |
-| [Projeto 3](https://github.com/vLecaBR/sales-website-model) | Modelo para site de vendas com ReactJS. | ReactJS, JavaScript, CSS. Html                   | [Acessar](https://github.com/vLecaBR/sales-website-model) |
+| [Site Atlética](https://github.com/Lu4head/Site_Tec_Barao) | Site de vendas criado para a atlética da minha faculdade. | JavaScript, Django, Html, CSS                  | [Acessar](https://github.com/Lu4head/Site_Tec_Barao) |
+| [My Portfolio](https://github.com/vLecaBR/my-portfolio) | Meu portfólio para exibição dos projetos criados por eu mesmo. | ReactJS, JavaScript, CSS                       | [Acessar](https://github.com/vLecaBR/my-portfolio) |
+| [sales-website-model](https://github.com/vLecaBR/sales-website-model) | Modelo para site de vendas com ReactJS. | ReactJS, JavaScript, CSS. Html                   | [Acessar](https://github.com/vLecaBR/sales-website-model) |
 
 ## Estatísticas do GitHub
 
