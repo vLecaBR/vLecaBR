@@ -22,9 +22,9 @@ Tenho uma forte paixão por tecnologia e desenvolvimento, especialmente na área
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vlecabr&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vlecabr&show_icons=true&theme=radical) ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vlecabr&layout=compact&theme=radical)
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vlecabr&layout=compact&theme=radical)
+
 
 ## Tecnologias e Ferramentas
 
