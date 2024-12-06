@@ -1,49 +1,48 @@
-# Olá, sou o Victor Leça! 👋
+# Hi, I'm Victor Leça! 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-@vlecabr-black?style=flat-square&logo=github)](https://github.com/vlecabr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Leca-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/victor-leca-vlkbr/)
 
-Bem-vindo ao meu perfil no GitHub! Sou um estudante de Ciência da Computação com 3 anos de experiência em empresas multinacionais, concentrando-me em suporte técnico e infraestrutura desde 2021, atualmente trabalhando diretamente com programação, atuo no setor de automação, sendo responsável por criação de sites utilizando ReactJS, Tailwind CSS entre outras tecnologias, e também criando aplicativos, fluxos de automação, listas, bibliotecas, através da Power Platform, com tecnologias como Power Apps, Power Automate e ferramentas do Office365, administração de fluxos e paginas do Sharepoint.
-Tenho uma forte paixão por tecnologia e desenvolvimento, especialmente na área de desenvolvimento web.
+Welcome to my GitHub profile! I am a Computer Science student with 3 years of experience in multinational companies, focusing on technical support and infrastructure since 2021. Currently, I work directly with programming in the automation sector, where I am responsible for creating websites using ReactJS, Tailwind CSS, and other technologies. I also develop applications, automation flows, lists, and libraries through the Power Platform, utilizing technologies such as Power Apps, Power Automate, and Office 365 tools, as well as managing SharePoint flows and pages. I have a strong passion for technology and development, especially in the area of web development. I possess skills in JavaScript, HTML, CSS, ReactJS, Svelte, Figma and Python. Additionally, I am actively learning and expanding my knowledge in popular frameworks and libraries like Angular and ReactJS. I am known for being quick, a fast and consistent learner, always motivated to overcome obstacles and embrace new challenges.
 
-## Sobre Mim
+## About me
 
-- 🌱 Atualmente estou aprendendo **ReactJS, JavaScript, TypeScript, React Native, Next, Etc**
-- 💬 Você pode me perguntar sobre **Desenvolvimento WEB**
-- 📫 Como entrar em contato: **(https://my-portfolio-eta-ashy-53.vercel.app/)**
+- 🌱 Actually I'm learning **ReactJS, JavaScript, TypeScript, React Native, Next, Etc**
+- 💬 You can ask me about **FrontEnd Development**
+- 📫 How to get in touch: **(https://my-portfolio-eta-ashy-53.vercel.app/)**
 
-## Projetos em Destaque
+## Featured Projects
 
-| Projeto                | Descrição                                           | Tecnologias Utilizadas               | Link                     |
+| Project                | Description                                          | Technologies used              | Link                     |
 |-----------------------|-----------------------------------------------------|--------------------------------------|--------------------------|
 | [Site Atlética](https://github.com/Lu4head/Site_Tec_Barao) | Site de vendas criado para a atlética da minha faculdade. | JavaScript, Django, Html, CSS                  | [Acessar](https://github.com/Lu4head/Site_Tec_Barao) |
 | [My Portfolio](https://github.com/vLecaBR/my-portfolio) | Meu portfólio para exibição dos projetos criados por eu mesmo. | ReactJS, JavaScript, CSS                       | [Acessar](https://github.com/vLecaBR/my-portfolio) |
 | [sales-website-model](https://github.com/vLecaBR/sales-website-model) | Modelo para site de vendas com ReactJS. | ReactJS, JavaScript, CSS. Html                   | [Acessar](https://github.com/vLecaBR/sales-website-model) |
 
-## Estatísticas do GitHub
+## GitHub Stats
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=vlecabr&layout=compact&theme=radical)
-
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vlecabr&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlecabr&layout=compact&theme=radical)
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlecabr&show_icons=true&theme=radical)
 
-## Tecnologias e Ferramentas
 
-Estou familiarizado com as seguintes tecnologias:
 
-- **Linguagens**: JavaScript, TypeScript, Html e CSS, Sass, Tailwind, etc
+## Tecnologies and tools
+
+I am familiar with the following technologies:
+
+- **Languages**: JavaScript, TypeScript, Html e CSS, Sass, Tailwind, etc
 - **Frameworks**: React, Node.js, Django
-- **Ferramentas**: Git, GitHub, Figma
-- **Bancos de Dados**: SQLite
+- **Tools**: Git, GitHub, Figma
+- **Database**: SQLite
 
-## Contato
+## Contact
 
-Você pode me encontrar nas seguintes redes sociais:
+You can find me on these social networks:
 
 - [LinkedIn](https://www.linkedin.com/in/victor-leca-vlkbr/)
 - [Portfólio](https://my-portfolio-eta-ashy-53.vercel.app/)
 
-Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato.
+Thank you for visiting my profile! Feel free to explore my projects and get in touch.
 
