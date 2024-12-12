@@ -15,9 +15,10 @@ Welcome to my GitHub profile! I am a Computer Science student with 4 years of ex
 
 | Project                | Description                                          | Technologies used              | Link                     |
 |-----------------------|-----------------------------------------------------|--------------------------------------|--------------------------|
-| [Site Atlética](https://github.com/Lu4head/Site_Tec_Barao) | Site de vendas criado para a atlética da minha faculdade. | JavaScript, Django, Html, CSS                  | [Acessar](https://github.com/Lu4head/Site_Tec_Barao) |
-| [My Portfolio](https://github.com/vLecaBR/my-portfolio) | Meu portfólio para exibição dos projetos criados por eu mesmo. | ReactJS, JavaScript, CSS                       | [Acessar](https://github.com/vLecaBR/my-portfolio) |
 | [sales-website-model](https://github.com/vLecaBR/sales-website-model) | Modelo para site de vendas com ReactJS. | ReactJS, JavaScript, CSS. Html                   | [Acessar](https://github.com/vLecaBR/sales-website-model) |
+| [sales-website-model-backend](https://github.com/vLecaBR/sales-website-model-backend) | Backend para site de vendas com ReactJS. | ReactJS, JavaScript, CSS. Html                   | [Acessar](https://github.com/vLecaBR/sales-website-model-backend) |
+| [My Portfolio](https://github.com/vLecaBR/my-portfolio) | Meu portfólio para exibição dos projetos criados por eu mesmo. | ReactJS, JavaScript, CSS                       | [Acessar](https://github.com/vLecaBR/my-portfolio) |
+| [Site Atlética](https://github.com/Lu4head/Site_Tec_Barao) | Site de vendas criado para a atlética da minha faculdade. | JavaScript, Django, Html, CSS                  | [Acessar](https://github.com/Lu4head/Site_Tec_Barao) |
 
 ## GitHub Stats
 
