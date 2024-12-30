@@ -38,6 +38,8 @@ I am familiar with the following technologies:
 - **Tools**: Git, GitHub, Figma
 - **Database**: SQLite
 
+  [![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css)](https://skillicons.dev)
+
 ## Contact
 
 You can find me on these social networks:
