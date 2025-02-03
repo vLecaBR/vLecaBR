@@ -24,6 +24,9 @@ Welcome to my GitHub profile! I am a Computer Science student with 4 years of ex
 
 ## GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlecabr&layout=compact&theme=radical)
 
 
