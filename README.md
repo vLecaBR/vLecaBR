@@ -35,8 +35,8 @@ Welcome to my GitHub profile! I am a Computer Science student with 4 years of ex
 
 I am familiar with the following technologies:
 
-- **Languages**: JavaScript, TypeScript, Html e CSS, Sass, Tailwind, etc
-- **Frameworks**: React, Node.js, Django
+- **Languages**: JavaScript, TypeScript, HTML, CSS, Sass
+- **Frameworks & Libraries**: React, Node.js, Django, Tailwind CSS
 - **Tools**: Git, GitHub, Figma
 - **Database**: SQLite
 
