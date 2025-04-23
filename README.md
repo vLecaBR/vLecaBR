@@ -1,52 +1,69 @@
-# Hi, I'm Victor Leça! 👋
+# Hey there, I'm Victor Leça! 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-@vlecabr-black?style=flat-square&logo=github)](https://github.com/vlecabr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Leca-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/victor-leca-vlkbr/)
+[![GitHub Follow](https://img.shields.io/github/followers/vlecabr?label=Follow&style=social)](https://github.com/vlecabr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Leça-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/victor-leca-vlkbr/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat-square&logo=vercel)](https://my-portfolio-eta-ashy-53.vercel.app/)
+[![Languages](https://img.shields.io/github/languages/top/vlecabr/my-portfolio?style=flat-square)](https://github.com/vLecaBR/my-portfolio)
 
-Welcome to my GitHub profile! I am a Computer Science student with 4 years of experience in multinational companies, focusing on technical support and infrastructure since 2021. Currently, I work directly with programming in the automation sector, where I am responsible for creating websites using ReactJS, Tailwind CSS, and other technologies. I also develop applications, automation flows, lists, and libraries through the Power Platform, utilizing technologies such as Power Apps, Power Automate, and Office 365 tools, as well as managing SharePoint flows and pages. I have a strong passion for technology and development, especially in the area of web development. I possess skills in JavaScript, HTML, CSS, ReactJS, Svelte, Figma and Python. Additionally, I am actively learning and expanding my knowledge in popular frameworks and libraries like Angular and ReactJS. I am known for being quick, a fast and consistent learner, always motivated to overcome obstacles and embrace new challenges.
+---
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,tailwind,sass,sqlite,git,github,figma)](https://skillicons.dev)
+🎓 I'm a **Computer Science** student with a background in technical support and IT infrastructure in multinational companies. Currently, I work in **automation and web development**, building web apps and internal tools using:
 
-## About me
+- **React.js**, **TailwindCSS**, **Node.js**
+- **Power Platform (Power Apps / Power Automate)**
+- **SharePoint integrations** for corporate solutions
 
-- 🌱 Actually I'm learning **ReactJS, JavaScript, TypeScript, React Native, Next, Etc**
-- 💬 You can ask me about **FrontEnd Development**
-- 📫 How to get in touch: **(https://my-portfolio-eta-ashy-53.vercel.app/)**
+I'm passionate about clean code, UI/UX, and learning new technologies. I thrive in environments that challenge me to build creative, scalable, and impactful products.
 
-## Featured Projects
+---
 
-| Project                | Description                                          | Technologies used              | Link                     |
-|-----------------------|-----------------------------------------------------|--------------------------------------|--------------------------|
-| [sales-website-model](https://github.com/vLecaBR/sales-website-model) | Template for a sales website with ReactJS. | ReactJS, JavaScript, CSS. Html                   | [Access](https://github.com/vLecaBR/sales-website-model) |
-| [sales-website-model-backend](https://github.com/vLecaBR/sales-website-model-backend) | Backend for a sales website with NodeJS. | JavaScript, NodeJS, SQLite                   | [Access](https://github.com/vLecaBR/sales-website-model-backend) |
-| [My Portfolio](https://github.com/vLecaBR/my-portfolio) | My portfolio to showcase the projects I have created. | ReactJS, JavaScript, CSS                       | [Access](https://github.com/vLecaBR/my-portfolio) |
-| [Site Atlética](https://github.com/Lu4head/Site_Tec_Barao) | Sales website created for my college's athletic association. | JavaScript, Django, Html, CSS                  | [Access](https://github.com/Lu4head/Site_Tec_Barao) |
+## 🚀 Tech Stack & Tools
 
-## GitHub Stats
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,tailwind,sass,sqlite,nextjs,vuejs,django,figma,git,github,vscode)](https://skillicons.dev)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vlecabr&layout=compact&theme=radical)
+- **Languages:** JavaScript, TypeScript, HTML, CSS, Python
+- **Frameworks/Libraries:** React, Next.js, Svelte, Node.js, Django
+- **UI/Styling:** Tailwind CSS, Sass, Figma
+- **Platforms:** Power Apps, Power Automate, Office 365, SharePoint
+- **Tools:** Git, GitHub, VS Code
+- **Currently Exploring:** React Native, NextJS, VueJS and others.
 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlecabr&show_icons=true&theme=radical)
+## 📌 Featured Projects
 
+| Project | Description | Tech Stack | Link |
+|--------|-------------|------------|------|
+| **Sales Website** | Modern sales landing page | React, TailwindCSS | [🔗 View](https://github.com/vLecaBR/sales-website-model) |
+| **Backend API** | Backend for the sales site | Node.js, Express, SQLite | [🔗 View](https://github.com/vLecaBR/sales-website-model-backend) |
+| **My Portfolio** | Personal portfolio and showcase | React, Tailwind | [🔗 View](https://github.com/vLecaBR/my-portfolio) |
+| **Athletic Sales Website** | Site for university athletic sell the clothes | Django, JavaScript | [🔗 View](https://github.com/Lu4head/Site_Tec_Barao) |
 
+---
 
-## Tecnologies and tools
+## 📊 GitHub Stats
 
-I am familiar with the following technologies:
-
-- **Languages**: JavaScript, TypeScript, HTML, CSS, Sass
-- **Frameworks & Libraries**: React, Node.js, Django, Tailwind CSS
-- **Tools**: Git, GitHub, Figma
-- **Database**: SQLite
-
-## Contact
-
-You can find me on these social networks:
-
-- [LinkedIn](https://www.linkedin.com/in/victor-leca-vlkbr/)
-- [Portfólio](https://my-portfolio-eta-ashy-53.vercel.app/)
-
-Thank you for visiting my profile! Feel free to explore my projects and get in touch.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlecabr&layout=compact&theme=tokyonight)
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlecabr&show_icons=true&theme=tokyonight)
 
 
+---
+
+## 📈 Contribution Activity
+
+[![Victor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vlecabr&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 💬 Let's Connect
+
+Feel free to reach out or just say hi 👋:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/victor-leca-vlkbr/)
+- 🌐 [My Portfolio](https://my-portfolio-eta-ashy-53.vercel.app/)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+Thanks for stopping by! 😄
