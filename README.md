@@ -44,6 +44,7 @@ I'm passionate about clean code, UI/UX, and learning new technologies. I thrive 
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlecabr&layout=compact&theme=tokyonight)
+
 ![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlecabr&show_icons=true&theme=tokyonight)
 
 
