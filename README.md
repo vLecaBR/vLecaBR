@@ -1,9 +1,10 @@
 # Hey there, I'm Victor Leça! 👋
 
 [![GitHub Follow](https://img.shields.io/github/followers/vlecabr?label=Follow&style=social)](https://github.com/vlecabr)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Leça-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/victor-leca-vlkbr/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat-square&logo=vercel)](https://my-portfolio-eta-ashy-53.vercel.app/)
-[![Languages](https://img.shields.io/github/languages/top/vlecabr/my-portfolio?style=flat-square)](https://github.com/vLecaBR/my-portfolio)
 
 ---
 
