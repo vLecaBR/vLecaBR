@@ -4,9 +4,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Leça-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/victor-leca-vlkbr/)
 
+[![Instagram](https://img.shields.io/badge/Instagram-@vlecabr-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vlecabr/)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat-square&logo=vercel)](https://my-portfolio-eta-ashy-53.vercel.app/)
 
 ---
+
 
 🎓 I'm a **Computer Science** student with a background in technical support and IT infrastructure in multinational companies. Currently, I work in **automation and web development**, building web apps and internal tools using:
 
