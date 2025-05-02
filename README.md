@@ -1,12 +1,13 @@
 # Hey there, I'm Victor Leça! 👋
 
-[![GitHub Follow](https://img.shields.io/github/followers/vlecabr?label=Follow&style=social)](https://github.com/vlecabr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlecabr)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Leça-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/victor-leca-vlkbr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leca-vlkbr/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@vlecabr-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vlecabr/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vlecabr/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-informational?style=flat-square&logo=vercel)](https://my-portfolio-eta-ashy-53.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-eta-ashy-53.vercel.app/)
+
 
 ---
 
