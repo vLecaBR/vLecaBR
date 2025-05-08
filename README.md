@@ -53,7 +53,6 @@ I'm passionate about clean code, UI/UX, and learning new technologies. I thrive 
 
 [![Victor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vlecabr&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
