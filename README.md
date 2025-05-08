@@ -1,9 +1,5 @@
 # Hey there, I'm Victor Leça! 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlecabr)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leca-vlkbr/)  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-eta-ashy-53.vercel.app/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vlecabr/)
-
-
----
 
 
 🎓 I'm a **Computer Science** student with a background in technical support and IT infrastructure in multinational companies. Currently, I work in **automation and web development**, building web apps and internal tools using:
@@ -14,7 +10,7 @@
 
 I'm passionate about clean code, UI/UX, and learning new technologies. I thrive in environments that challenge me to build creative, scalable, and impactful products.
 
----
+
 
 ## 🚀 Tech Stack & Tools
 
@@ -27,7 +23,7 @@ I'm passionate about clean code, UI/UX, and learning new technologies. I thrive 
 - **Tools:** Git, GitHub, VS Code
 - **Currently Exploring:** React Native, NextJS, VueJS and others.
 
----
+
 
 ## 📌 Featured Projects
 
@@ -38,7 +34,7 @@ I'm passionate about clean code, UI/UX, and learning new technologies. I thrive 
 | **My Portfolio** | Personal portfolio and showcase | React, Tailwind | [🔗 View](https://github.com/vLecaBR/my-portfolio) |
 | **Athletic Sales Website** | Site for university athletic sell the clothes | Django, JavaScript | [🔗 View](https://github.com/Lu4head/Site_Tec_Barao) |
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -51,17 +47,15 @@ I'm passionate about clean code, UI/UX, and learning new technologies. I thrive 
 
 ## 📈 Contribution Activity
 
-[![Victor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vlecabr&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![Contribuição 3D](./profile-3d-contrib/profile-green-animate.svg)
 
 
----
 
 ## 💬 Let's Connect
 
 Feel free to reach out or just say hi 👋:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/victor-leca-vlkbr/)
-- 🌐 [My Portfolio](https://my-portfolio-eta-ashy-53.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlecabr)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leca-vlkbr/)  [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-eta-ashy-53.vercel.app/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vlecabr/)
 
 ---
 
