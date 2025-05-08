@@ -47,7 +47,7 @@ I'm passionate about clean code, UI/UX, and learning new technologies. I thrive 
 
 ## 📈 Contribution Activity
 
-![Contribuição 3D](./profile-3d-contrib/profile-green-animate.svg)
+![Contribuição 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
