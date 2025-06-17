@@ -30,7 +30,7 @@ I'm passionate about clean code, UI/UX, and learning new technologies. I thrive 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | **Sales Website** | Modern sales landing page | React, TailwindCSS | [🔗 View](https://github.com/vLecaBR/sales-website-model) |
-| **Backend API** | Backend for the sales site | Node.js, Express, SQLite | [🔗 View](https://github.com/vLecaBR/sales-website-model-backend) |
+| **Backend Website** | Backend for the sales site | Node.js, Express, SQLite | [🔗 View](https://github.com/vLecaBR/sales-website-model-backend) |
 | **My Portfolio** | Personal portfolio and showcase | React, Tailwind | [🔗 View](https://github.com/vLecaBR/my-portfolio) |
 | **Athletic Sales Website** | Site for university athletic sell the clothes | Django, JavaScript | [🔗 View](https://github.com/Lu4head/Site_Tec_Barao) |
 
