@@ -14,7 +14,7 @@ I'm passionate about clean code, UI/UX, and learning new technologies. I thrive 
 
 ## 🚀 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,js,ts,html,css,nodejs,tailwind,sass,sqlite,java,django,figma,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vuejs,js,ts,html,css,nodejs,tailwind,sass,postgres,sqlite,java,django,figma,git,github,vscode)](https://skillicons.dev)
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS, Python
 - **Frameworks/Libraries:** React, Next.js, Svelte, Node.js, Django
