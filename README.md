@@ -21,7 +21,7 @@ I'm passionate about clean code, UI/UX, and learning new technologies. I thrive 
 - **UI/Styling:** Tailwind CSS, Sass, Figma
 - **Platforms:** Power Apps, Power Automate, Office 365, SharePoint
 - **Tools:** Git, GitHub, VS Code
-- **DataBase:** SQLite, PostGresql
+- **DataBase:** SQLite, Postgresql
 - **Currently Exploring:** Java, React Native, NextJS and VueJS.
 
 
