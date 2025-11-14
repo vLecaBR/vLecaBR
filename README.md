@@ -31,10 +31,10 @@ I'm passionate about clean code, UI/UX, and learning new technologies. I thrive 
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Sales Website** | Modern sales landing page | React, Styled Components | [🔗 View](https://github.com/vLecaBR/sales-website-model) |
-| **Backend Website** | Backend for the sales site | Node.js, Express, SQLite | [🔗 View](https://github.com/vLecaBR/sales-website-model-backend) |
-| **My Portfolio** | Personal portfolio and showcase | React, Styled Components | [🔗 View](https://github.com/vLecaBR/my-portfolio) |
-| **Athletic Sales Website** | Site for university athletic sell the clothes | Django, JavaScript | [🔗 View](https://github.com/Lu4head/Site_Tec_Barao) |
+| **EastQG** | Modern sales and mechanic services | React, JavaScript, Styled Components | [🔗 View](https://github.com/vLecaBR/eastqg) |
+| **EastQG-Backend** | Backend using MLapi to show products | Node.js, Express, API Rest | [🔗 View](https://github.com/vLecaBR/eastqg_backend) |
+| **DJ Franzoni** | DJ Portfolio and contact system for bookings | React, JavaScript, Styled Components | [🔗 View](https://github.com/vLecaBR/djfranzoni-portfolio) |
+| **My portfolio** | Personal portfolio and showcase | React, TypeScript, TailwindCSS | [🔗 View](https://github.com/vLecaBR/victorleca_portfolio) |
 
 
 
