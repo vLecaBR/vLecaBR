@@ -10,10 +10,6 @@ I specialize in the **JavaScript/TypeScript ecosystem** (ReactJS, React Native, 
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![Victor's Trophies](https://github-profile-trophy.vercel.app/?username=vlecabr&theme=tokyonight&margin-w=15&column=7&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🚀 Tech Stack & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,tailwind,postgres,docker,aws,gcp,git,github,vscode,figma)](https://skillicons.dev)
