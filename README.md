@@ -1,6 +1,6 @@
 # Hey there, I'm Victor Leça! 👋
 
-**Computer Scientist | Full Stack Developer | Digitalization & AI**
+**Computer Scientist | Full Stack Developer | Digitalization & AI** 
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlecabr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leca-vlkbr/) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://victorleca.vercel.app/)
 
