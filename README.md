@@ -1,4 +1,4 @@
-# Hey there, I'm Victor Leça! 👋
+# Hey there, I'm Victor Leça!
 
 **Computer Scientist | Full Stack Developer | Digitalization & AI** 
 
