@@ -2,7 +2,7 @@
 
 **Computer Scientist | Full Stack Developer | Digitalization & AI** 
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlecabr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leca-vlkbr/) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://victorleca.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vlecabr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-leca-vlkbr/) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://victorleca-portfolio.vercel.app/)
 
 🎓 I am a **Computer Scientist** and Full Stack Developer with 5 years of experience in the tech industry. I am currently part of the **Digitalization & AI** team at LongPing High-Tech, focusing on building high-performance, scalable web applications and automating complex corporate operations alongside international teams.
 
