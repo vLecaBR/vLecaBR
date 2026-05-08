@@ -34,7 +34,7 @@ I specialize in the **JavaScript/TypeScript ecosystem** and actively use AI-driv
 
 ## 💼 Current Experience
 
-**Front-End / Full Stack Developer | Digitalization & AI @ Long Ping High-Tech** *Liderança técnica no desenvolvimento de aplicações web e mobile utilizando ReactJS e Node.js. Implementação de fluxos de trabalho otimizados por IA (GenAI) para automação e refatoração de código legado, reduzindo o tempo de entrega de projetos em 65%.*
+**Front-End / Full Stack Developer | Digitalization & AI @ Long Ping High-Tech. Technical leadership in the development of web and mobile applications using ReactJS and Node.js. Implementation of AI-optimized workflows (GenAI) for automation and refactoring of legacy code, reducing project delivery time by 65%.*
 
 ---
 
