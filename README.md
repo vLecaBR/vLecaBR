@@ -42,7 +42,7 @@ I specialize in both the **.NET/C#** and **JavaScript/TypeScript** ecosystems. I
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vlecabr&theme=tokyonight&hide_border=true)](https://github.com/vlecabr)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vlecabr&theme=navy-gear)](https://git.io/streak-stats)
 
 ---
 
